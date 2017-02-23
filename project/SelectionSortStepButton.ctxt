@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SelectionSortStepButton
+comment1.params=
+comment1.target=void\ act()
+comment10.params=j
+comment10.target=void\ setJ(int)
+comment2.params=values\ i\ j
+comment2.target=boolean\ SelectionSort(int[],\ int,\ int)
+comment3.params=i\ j
+comment3.target=void\ exchangeNumbers(int,\ int)
+comment4.params=i\ j
+comment4.target=void\ swap(int,\ int)
+comment5.params=
+comment5.target=int[]\ getValues()
+comment6.params=value
+comment6.target=void\ setValues(int[])
+comment7.params=i
+comment7.target=void\ setI(int)
+comment8.params=
+comment8.target=int\ getI()
+comment9.params=
+comment9.target=int\ getJ()
+numComments=11
